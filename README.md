@@ -1,3 +1,3 @@
-# hello-world-2
+# eclipseuploadtest
 It prints "hello world" plus an identifier. That's it. That's all it does. If
 you want a program that does cool stuff, please look elsewhere.
